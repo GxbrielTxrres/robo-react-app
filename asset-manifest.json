@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robo-react-app/static/css/main.34d5e85c.css",
+    "main.js": "/robo-react-app/static/js/main.98d95eec.js",
+    "static/js/787.32032a02.chunk.js": "/robo-react-app/static/js/787.32032a02.chunk.js",
+    "static/media/GameBattlesRegular-RjXo.ttf": "/robo-react-app/static/media/GameBattlesRegular-RjXo.0158f59285966cad3010.ttf",
+    "index.html": "/robo-react-app/index.html",
+    "main.34d5e85c.css.map": "/robo-react-app/static/css/main.34d5e85c.css.map",
+    "main.98d95eec.js.map": "/robo-react-app/static/js/main.98d95eec.js.map",
+    "787.32032a02.chunk.js.map": "/robo-react-app/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d5e85c.css",
+    "static/js/main.98d95eec.js"
+  ]
+}
