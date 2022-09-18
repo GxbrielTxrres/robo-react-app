@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: #051ee6;
+  background: -webkit-linear-gradient(right, #051ee6, #04cdeb);
+  background: -moz-linear-gradient(right, #051ee6, #04cdeb);
+  background: linear-gradient(to left, #051ee6, #04cdeb);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+input {
+  padding: 10px 10px;
+  background-color: lightblue;
+  outline: unset;
+  border: 2px solid rgb(42, 135, 197);
+}
+
+input:focus {
+  border: 3px solid rgb(42, 135, 197);
+}
+
+.cardContainer {
+  display: inline-block;
+  height: 400px;
+  width: 300px;
+  background-color: aqua;
+
+  margin: 10px;
+  padding: 15px 0;
+
+  border-radius: 10px;
+  box-shadow: 0 2px 6px 0 black;
+  text-align: center;
+}
+
+.inputContainer {
+  text-align: center;
+}
+
+#header {
+  font-size: 1.5rem;
+  margin: 15px 0 20px 0;
+  font-family: "Segalol";
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Segalol";
+  src: local("Segalol"), url("GameBattlesRegular-RjXo.ttf");
+}
